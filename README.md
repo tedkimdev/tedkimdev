@@ -2,6 +2,10 @@
 
 Backend engineer turning ideas into services and products — currently diving deep into Solana
 
+### Thoughts
+
+> Software engineering is what happens to programming when you add time and other programmers.
+
 **I like working with**
 
 <div display="flex">
