@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Backend engineer turning ideas into services and products — currently diving deep into Solana
+Backend engineer turning ideas into services and products — currently diving deep into **Solana**
 
 ### Thoughts
 
