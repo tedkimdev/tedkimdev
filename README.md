@@ -14,7 +14,9 @@ Backend engineer turning ideas into services and products — currently diving d
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/aws-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/gcp-5F6368.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
 </div>
+
 
 ### 📫 How to reach me
 <div display="flex">
